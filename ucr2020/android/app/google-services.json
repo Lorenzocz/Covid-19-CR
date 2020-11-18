@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "801328309421",
+    "firebase_url": "https://ucrbeta-25da1.firebaseio.com",
+    "project_id": "ucrbeta-25da1",
+    "storage_bucket": "ucrbeta-25da1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:801328309421:android:9297c20a8aaa15dabe9224",
+        "android_client_info": {
+          "package_name": "com.lorenzocz.sedesur"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "801328309421-7c4aiatl7l6g63jniav6or5p3079hjqo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCQLeSi_WoSfpYLUlptQFimFQL5I5z24VA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "801328309421-7c4aiatl7l6g63jniav6or5p3079hjqo.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
