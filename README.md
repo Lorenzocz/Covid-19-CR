@@ -3,7 +3,7 @@ Aplicación personal encargada de llevar un control de todos los casos de coivd-
 
 # Video ilustrativo.
 
-![Farmers Market Finder Demo](Fotos/Covid12.gif)
+![Farmers Market Finder Demo](Fotos/covid12.gif)
 
 # Información.
 
